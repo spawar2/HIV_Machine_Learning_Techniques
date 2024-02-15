@@ -8,3 +8,6 @@
 
 [Pawar, Shrikant, "Bioinformatics Techniques for Studying Drug Resistance In HIV and Staphylococcus Aureus." Dissertation, Georgia State University, 2019.
 doi: https://doi.org/10.57709/14306337](https://scholarworks.gsu.edu/biology_diss/216/)
+
+<img width="824" alt="HIV" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/212d6e3f-b050-462b-b3d0-469f382ecb41">
+
