@@ -1,5 +1,6 @@
 
 [MATHLAB, R, Python: numpy, sklearn.model, pylab, sklearn.decomposition]
+<img width="129" alt="GSU" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/7b7ef408-a134-44d7-ba36-bfdac1c98baf">
 
 # HIV_Machine_Learning_Techniques collaboration with Dr. Harrison and Dr. Weber, Georgia State University https://csds.gsu.edu/profile/robert-harrison/ https://cas.gsu.edu/profile/irene-weber/
 [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30343664)
