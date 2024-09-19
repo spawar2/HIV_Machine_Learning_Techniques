@@ -16,3 +16,5 @@ doi: https://doi.org/10.57709/14306337](https://scholarworks.gsu.edu/biology_di
 
 <img width="824" alt="HIV" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/212d6e3f-b050-462b-b3d0-469f382ecb41">
 
+Plot_Clustering (Autosaved).Rd: HIV-1 protease deep Ribonucleic acid sequencing data read, K Means, Hierarchial, AGNES: Agglomerative Nesting TRY DIVISIVE Clustering, Selecting optimum number of clusters using elbow method, clusGap, clustering vectors to export.
+SVM.py: Support vector machine (SVM), principal component analysis (PCA).
