@@ -20,5 +20,5 @@ Plot_Clustering (Autosaved).Rd: HIV-1 protease deep Ribonucleic acid sequencing 
 SVM.py: Support vector machine (SVM), principal component analysis (PCA).
 selected function(genfromtxt, train_test_split, svm.SVC, PCA, svmClassifier_2d.predict, np.meshgrid, Z.reshape, knn, kmeans, clusGap, Mclust, NbClust, dist, cutree, agnes, sapply).
 
-Inhibitor	Accuracy	PPV	Recall	F Idv	
-0.979	0.974	0.985	0.979
+Inhibitor,	Accuracy,	Postive Prediction Value (PPV),	Recall,	F, Indinavir (IDV):	
+0.979,	0.974,	0.985,	0.979.
