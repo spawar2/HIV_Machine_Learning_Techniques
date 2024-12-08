@@ -1,4 +1,4 @@
-
+Artificial intelligence (AI).
 [MATHLAB, R, Python: numpy, sklearn.model, pylab, sklearn.decomposition]. IF=4.1.
 <img width="129" alt="GSU" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/7b7ef408-a134-44d7-ba36-bfdac1c98baf">
 <img width="130" alt="BMC" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/9e4380d9-3988-4f3e-a115-005f8ca50914">
