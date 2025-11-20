@@ -9,7 +9,7 @@ BioMed Central BMC Bioinformatics. [Paper Link:](https://www.ncbi.nlm.nih.gov/pu
 Analysis of drug resistance in HIV protease, Shrikant Pawar, Chris Freas, Robert W. Harrison, and Irene T. Weber, Publication: BioMed Central BMC: Bioinformatics (Publication date: October 4), collaboration with Dr. Harrison and Dr. Weber, Georgia State University, Atlanta, USA. (The research was supported in part by the National Institutes of Health (NIH) grant GM062920 (ITW & RWH)). Dissertation, IF=3.3. Github, Article link, [Cited times: 18]^^^ DOI: 10.1186/s12859-018-2331-y, Volume: 19, Issue: 11, Pages: 262.
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-4d6981f1-b60c-4a57-aabd-4081ef87dd8d)
 Dissertation published at: https://scholarworks.gsu.edu/items/c859be20-bf1b-470c-884a-118056c4d62a
-[Scientific Computing Conference, Atlanta, Georgia, 1 October, 2017, United States of America (USA).. Analysis of Drug Resistance in HIV PR, by Pawar SD, Irene Weber, Christopher F, and Robert Harrison.](https://technology.gsu.edu/scientific-computing-day/conference-archive/#2017)
+[Scientific Computing Conference, Atlanta, Georgia, 1 October, 2017, United States of America (USA).. Analysis of Drug Resistance in HIV PR, by Pawar SD, Irene Weber, Christopher F, and Robert Harrison.](https://technology.gsu.edu/scientific-computing-day/conference-archive/#2017) https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2024/01/Conferences1-57a4ad9681aaf3a8-300x225.jpg
 ††
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 [Pawar, Shrikant, "Bioinformatics Techniques for Studying Drug Resistance In HIV and Staphylococcus Aureus." Dissertation, Georgia State University, 2019.
