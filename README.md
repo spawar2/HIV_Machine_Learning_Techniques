@@ -20,7 +20,32 @@ doi: https://doi.org/10.57709/14306337](https://scholarworks.gsu.edu/biology_di
 Plot_Clustering (Autosaved).Rd: HIV-1 protease deep Ribonucleic acid sequencing data read, K-Means, Hierarchial, AGNES: Agglomerative Nesting TRY DIVISIVE Clustering, Selecting optimum number of clusters using elbow method, clusGap, clustering vectors to export.
 SVM.py: Support vector machine (SVM), principal component analysis (PCA).
 selected function(genfromtxt, train_test_split, svm.SVC, PCA, svmClassifier_2d.predict, np.meshgrid, Z.reshape, knn, kmeans, clusGap, Mclust, NbClust, dist, cutree, agnes, sapply).
-Accuracy (3, 5, 10 Fold similar values).
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
+
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 Testing: Inhibitor,	Accuracy,	Postive Prediction Value (PPV),	Recall,	F, Indinavir (IDV):	
 0.979,	0.974,	0.985,	0.979.'
 
