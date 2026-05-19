@@ -2,6 +2,7 @@ Artificial intelligence (AI). Date created/updated: December, 9, 2024.
 [MATHLAB, R, Python: numpy, sklearn.model, pylab, sklearn.decomposition]. IF=4.1.
 <img width="129" alt="GSU" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/7b7ef408-a134-44d7-ba36-bfdac1c98baf">
 <img width="130" alt="BMC" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/9e4380d9-3988-4f3e-a115-005f8ca50914">
+<img width="1454" height="793" alt="Screenshot 2026-05-20 at 1 50 22 AM" src="https://github.com/user-attachments/assets/61709e4e-e162-4998-9d21-bc661c039499" />
 
 # HIV_Machine_Learning_Techniques collaboration with Dr. Robert. Harrison and Dr. Irene. Weber, Georgia State University, Atlanta, USA. https://csds.gsu.edu/profile/robert-harrison/ https://cas.gsu.edu/profile/irene-weber/ Mathematics Genealogy Project: https://www.mathgenealogy.org/id.php?id=294685 (The research was supported in part by the National Institutes of Health (NIH) grant GM062920 (ITW & RWH)). ^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, United States of America (USA). Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).All Nature, BMC, and Frontiers Journal (Q1-level), others (Springer Genes and Genomics, Elsevier Journal of Theoretical Biology, Data in Brief, Wiley's Chemical Biology and Drug Design, etc.): Q2-Q3.
 BioMed Central BMC Bioinformatics. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30343664)
